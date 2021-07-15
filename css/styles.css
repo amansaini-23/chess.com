@@ -41,12 +41,12 @@ p {
 /* Sections */
 
 .colored-section {
-    background-color: #ff4c68;
+    background-color: black;
     color: #fff;
 }
 
 .white-section {
-    background-color: #fff;
+    background-color: pink;
 }
 
 
@@ -82,7 +82,7 @@ p {
 /* Title Section */
 
 #title {
-    background-color: #ff4c68;
+    background-color: black;
     color: #fff;
     text-align: left;
 }
@@ -120,14 +120,14 @@ p {
 }
 
 .icon:hover {
-    color: #ff4c68;
+    color: black;
 }
 
 
 /* Testimonial Section */
 
 #testimonials {
-    background-color: #ef8172;
+    background-color: black;
 }
 
 .testimonial-text {
